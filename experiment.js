@@ -296,7 +296,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/blood_1.jpg',     category: "approach_words_neg", movement: approach_neg_1},
     {stimulus: 'stimuli/cockroach_2.jpg', category: "approach_words_neg", movement: approach_neg_1},
     {stimulus: 'stimuli/coffin_2.jpg',    category: "approach_words_neg", movement: approach_neg_1},
-    {stimulus: 'stimuli/corpse_3.jpg',    category: "approach_words_neg", movement: approach_neg_1},
+    {stimulus: 'stimuli/corpse_3.JPG',    category: "approach_words_neg", movement: approach_neg_1},
   ];
 
   var vaast_stim_training_block_1_words = [
@@ -341,7 +341,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/hurricane_2.jpg',  category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/jail_1.jpg',       category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/knife_1.jpg',      category: "approach_words_neg",  movement: approach_neg_1},
-    {stimulus: 'stimuli/mutilation_2.jpg', category: "approach_words_neg",  movement: approach_neg_1},
+    {stimulus: 'stimuli/mutilation_2.JPG', category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/poison_4.jpg',     category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/pollution_1.jpg',  category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/rat_3.jpg',        category: "approach_words_neg",  movement: approach_neg_1},
@@ -408,7 +408,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/blood_1.jpg',     category: "approach_words_neg", movement: approach_neg_2},
     {stimulus: 'stimuli/cockroach_2.jpg', category: "approach_words_neg", movement: approach_neg_2},
     {stimulus: 'stimuli/coffin_2.jpg',    category: "approach_words_neg", movement: approach_neg_2},
-    {stimulus: 'stimuli/corpse_3.jpg',    category: "approach_words_neg", movement: approach_neg_2},
+    {stimulus: 'stimuli/corpse_3.JPG',    category: "approach_words_neg", movement: approach_neg_2},
   ];
 
   var vaast_stim_training_block_2_words = [
@@ -453,7 +453,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/hurricane_2.jpg',  category: "approach_words_neg",  movement: approach_neg_2},
     {stimulus: 'stimuli/jail_1.jpg',       category: "approach_words_neg",  movement: approach_neg_2},
     {stimulus: 'stimuli/knife_1.jpg',      category: "approach_words_neg",  movement: approach_neg_2},
-    {stimulus: 'stimuli/mutilation_2.jpg', category: "approach_words_neg",  movement: approach_neg_2},
+    {stimulus: 'stimuli/mutilation_2.JPG', category: "approach_words_neg",  movement: approach_neg_2},
     {stimulus: 'stimuli/poison_4.jpg',     category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/pollution_1.jpg',  category: "approach_words_neg",  movement: approach_neg_2},
     {stimulus: 'stimuli/rat_3.jpg',        category: "approach_words_neg",  movement: approach_neg_2},
@@ -520,7 +520,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/blood_1.jpg',     category: "approach_words_neg", movement: approach_neg_3},
     {stimulus: 'stimuli/cockroach_2.jpg', category: "approach_words_neg", movement: approach_neg_3},
     {stimulus: 'stimuli/coffin_2.jpg',    category: "approach_words_neg", movement: approach_neg_3},
-    {stimulus: 'stimuli/corpse_3.jpg',    category: "approach_words_neg", movement: approach_neg_3},
+    {stimulus: 'stimuli/corpse_3.JPG',    category: "approach_words_neg", movement: approach_neg_3},
   ];
 
   var vaast_stim_training_block_3_words = [
@@ -565,7 +565,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/hurricane_2.jpg',  category: "approach_words_neg",  movement: approach_neg_3},
     {stimulus: 'stimuli/jail_1.jpg',       category: "approach_words_neg",  movement: approach_neg_3},
     {stimulus: 'stimuli/knife_1.jpg',      category: "approach_words_neg",  movement: approach_neg_3},
-    {stimulus: 'stimuli/mutilation_2.jpg', category: "approach_words_neg",  movement: approach_neg_3},
+    {stimulus: 'stimuli/mutilation_2.JPG', category: "approach_words_neg",  movement: approach_neg_3},
     {stimulus: 'stimuli/poison_4.jpg',     category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/pollution_1.jpg',  category: "approach_words_neg",  movement: approach_neg_3},
     {stimulus: 'stimuli/rat_3.jpg',        category: "approach_words_neg",  movement: approach_neg_3},
@@ -632,7 +632,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/blood_1.jpg',     category: "approach_words_neg", movement: approach_neg_4},
     {stimulus: 'stimuli/cockroach_2.jpg', category: "approach_words_neg", movement: approach_neg_4},
     {stimulus: 'stimuli/coffin_2.jpg',    category: "approach_words_neg", movement: approach_neg_4},
-    {stimulus: 'stimuli/corpse_3.jpg',    category: "approach_words_neg", movement: approach_neg_4},
+    {stimulus: 'stimuli/corpse_3.JPG',    category: "approach_words_neg", movement: approach_neg_4},
   ];
 
   var vaast_stim_training_block_4_words = [
@@ -677,7 +677,7 @@ var avoidance_key = "N";
     {stimulus: 'stimuli/hurricane_2.jpg',  category: "approach_words_neg",  movement: approach_neg_4},
     {stimulus: 'stimuli/jail_1.jpg',       category: "approach_words_neg",  movement: approach_neg_4},
     {stimulus: 'stimuli/knife_1.jpg',      category: "approach_words_neg",  movement: approach_neg_4},
-    {stimulus: 'stimuli/mutilation_2.jpg', category: "approach_words_neg",  movement: approach_neg_4},
+    {stimulus: 'stimuli/mutilation_2.JPG', category: "approach_words_neg",  movement: approach_neg_4},
     {stimulus: 'stimuli/poison_4.jpg',     category: "approach_words_neg",  movement: approach_neg_1},
     {stimulus: 'stimuli/pollution_1.jpg',  category: "approach_words_neg",  movement: approach_neg_4},
     {stimulus: 'stimuli/rat_3.jpg',        category: "approach_words_neg",  movement: approach_neg_4},
@@ -873,17 +873,17 @@ var avoidance_key = "N";
     type: "html-keyboard-response",
     stimulus:
       "<h1 class ='custom-title'> Welcome </h1>" +
-      "<p class='instructions'>Thank you for participating in this study.<p>" +
-      "<p class='instructions'>During this study, you will have to complete two different tasks. We " +
-      " will record your performance on these but " +
+      "<p class='instructions'>Thank you for taking part in this study.<p>" +
+      "<p class='instructions'>During this study, you will have to complete two different categorization tasks. We " +
+      " will record your performance on these tasks but " +
       "we will not collect any personally identifying information.</p>" +
       "<p class='instructions'>Because we rely on third party services to gather data, ad-blocking " +
-      "software might interfere with data collection. Therefore, please  " +
+      "softwares might interfere with data collection. Therefore, please  " +
       "disable your ad-blocking software during this study. " +
       "<b>If we are unable to record your data, we will not be able to reward you for " +
       "your participation</b>. </p>" +
       "<p class='instructions'>If you have any question related to this research, please " +
-      "e-mail marine.rougier@uclouvain.be.</p>" +
+      "e-mail me at marine.rougier@uclouvain.be.</p>" +
       "<p class = 'continue-instructions'>Press <strong>space</strong> to start the study.</p>",
     choices: [32]
   };
@@ -893,14 +893,14 @@ var avoidance_key = "N";
     stimulus:
       "<p class='instructions'>By clicking below to start the study, you recognize that:</p>" +
         "<ul class='instructions'>" +
-          "<li>You know that you can stop your participation at any time, without having to justify yourself. " +
-          "However, keep in mind that you need to complete the whole study in order to be paid.</li>" +
-          "<li>You know that you can contact our team for any questions or dissatisfaction related to your " +
+          "<li>You know you can stop your participation at any time, without having to justify yourself. " +
+          "However, keep in mind that you have to complete the whole study in order to be paid.</li>" +
+          "<li>You know you can contact our team for any questions or dissatisfaction related to your " +
           "participation in the research via the following email address: marine.rougier@uclouvain.be.</li>" +
-          "<li>You know that the data collected will be strictly confidential and it will be impossible for " +
+          "<li>You know the data collected will be strictly confidential and it will be impossible for " +
           "any unauthorized third party to identify you.</li>" +
         "</ul>" +
-      "<p class='instructions'><u>WARNING:</u> some images presented during the experiment might shock you.</p>" +
+      "<p class='instructions'><u>WARNING:</u> Beware that some unpleasant images presented during the experiment might shock you.</p>" +
       "<p class='instructions'>By clicking on the \"I confirm\" button, you give your free and informed consent to participate " +
       "in this research.</p>",
     choices: ['I confirm']
@@ -910,7 +910,7 @@ var avoidance_key = "N";
     type: "html-button-response",
     stimulus:
       "<p class='instructions'>Before going further, please note that this study should take " +
-      "## minutes to complete.</p>",
+      "15-17 minutes to complete.</p>",
     choices: ['I have enough time', 'I do not have enough time'],
   };
 
@@ -954,7 +954,8 @@ var avoidance_key = "N";
   // First slide --------------------------------------------------------------------------
   var instructions = {
     type: "html-keyboard-response",
-    stimulus: "<p class='instructions'>You are now about to start the study. In this study, you will engage in a task.</p>" +
+    stimulus: "<p class='instructions'>You are now about to start the study. In this study, you will engage in two categorization tasks. " +
+    "Each of these two tasks is divided into two sections.</p>" +
     "<p class = 'continue-instructions'>Press <strong>space</strong> to start.</p>",
     choices: [32]
   };
@@ -965,7 +966,7 @@ var avoidance_key = "N";
     type: "html-keyboard-response",
     stimulus:
       "<h1 class ='custom-title'>Video Game Task</h1>" +
-      "<p class='instructions'>In this task, like in a video game you will see an environment " +
+      "<p class='instructions'>In these two tasks, like in a video game, you will see an environment " +
       "(presented below) in which you will be able to move forward or backward.</p>" +
       "<p class='instructions'>A word or an image will appear within this environment and " +
       "you will have to approach or avoid this word/image.</p>" +
@@ -982,7 +983,7 @@ var avoidance_key = "N";
       "<p class='instructions'>In this environment you will be exposed to a series of stimuli " +
       "(words or images). Your task consists in moving forward or backward depending on the type " +
       "of stimuli (more precise instructions will be given next).</p>" +
-      "<p class='instructions'> You can move in the environment bu using the the following keys " +
+      "<p class='instructions'> You can move in the environment by using the the following keys " +
       "of your keyboard:</p>" +
       "<p class='instructions'><center>" +
         "<img src = 'media/keyboard-vaastt.png'>" +
@@ -997,11 +998,11 @@ var avoidance_key = "N";
       "<p class='instructions'>At the beginning of each trial, you will see the O symbol. This symbol " +
       "indicates that you have to press the START key (namely the H key) to start the trial.</p>" +
       "<p class='instructions'>Then, you will see a fixation cross (+) at the center of the screen followed " +
-      "by a word.</p>" +
+      "by a word/image.</p>" +
       "<p class='instructions'>Your task is to move forward or backward by pressing the MOVE FORWARD " +
-      "(the Y key) or MOVE BACKWARD (the N key) <strong>as fast as possible</strong>.</p>" +
+      "(the Y key) or the MOVE BACKWARD (the N key) key <strong>as fast as possible</strong>.</p>" +
       "<p class='instructions'>For all of these actions, please only use the index of your dominant hand.</p>" +
-      "<p class='continue-instructions'>Press <strong>space</strong> to continue.</p>",
+      "<p class='continue-instructions'>Press <strong>space</strong> to start Task 1.</p>",
     choices: [32]
   };
 
@@ -1445,7 +1446,7 @@ var avoidance_key = "N";
   var extra_information = {
     type: 'html-keyboard-response',
     stimulus:
-      "<p class='instructions'>You are close to completing this study. You will just have to answer to a few questions.</p>" +
+      "<p class='instructions'>You are close to completing this study. Now, you have to answer to a few questions.</p>" +
       "<p class='continue-instructions'>Press <strong>space</strong> to continue.</p>",
     choices: [32]
   };
@@ -1522,14 +1523,13 @@ var avoidance_key = "N";
     type: "html-keyboard-response",
     stimulus:
       "<p class='instructions'>You are now finished with this study.<p>" +
-      "<p class='instructions'>In this study, we were interested in the effect of " +
-      "approach and avoidance training. Research show that this kind of " +
-      "training can be used to create new attitudes toward a specific object. Approaching " +
-      "something make us see it more positively. </p>" +
-      "<p class='instructions'> Here, we wanted to see if it could also be used to create " +
-      "an association between the self and new objects using an approach training. </p>" +
+      "<p class='instructions'>In this study, we were interested in the measure of " +
+      "approach and avoidance tendencies. Research show that individuals are generally " +
+      "faster to approach positive stimuli and to avoid negative stimuli (rather than the reverse). </p>" +
+      "<p class='instructions'> Here, we wanted to see if this effect was larger for words " +
+      "compared to images. </p>" +
       "<p class='instructions'>For more information to this topic, please email " +
-      "cedric.batailler@univ-grenoble-alpes.fr</p>" +
+      "marine.rougier@uclouvain.be</p>" +
       "<p class = 'continue-instructions'>Press <strong>space</strong> to continue.</p>",
     choices: [32]
   };
@@ -1540,7 +1540,7 @@ var avoidance_key = "N";
     stimulus:
       "<p class='instructions'>You will now be redirected to Prolific Academic's website " +
       "within seconds.<p>" +
-      "<p class='instructions'>If you are not redirected, please click <a href='https://app.prolific.ac/submissions/complete?cc=OM0MJFFH'>here</a>.<p>",
+      "<p class='instructions'>If you are not redirected, please click <a href='https://app.prolific.ac/submissions/complete?cc=MEMHX5XQ'>here</a>.<p>",
     choices: jsPsych.NO_KEYS
   };
   // procedure ----------------------------------------------------------------------------
@@ -1624,7 +1624,7 @@ var avoidance_key = "N";
   var vaast_stimuli_images      = ["stimuli/apple_2.jpg",      "stimuli/beach_3.jpg",     "stimuli/bed_1.jpg",
                                    "stimuli/cake_1.jpg",       "stimuli/chocolate_2.jpg", "stimuli/acne_2.jpg",
                                    "stimuli/blood_1.jpg",      "stimuli/cockroach_2.jpg", "stimuli/coffin_2.jpg",
-                                   "stimuli/corpse_3.jpg",     "stimuli/christmas_3.jpg", "stimuli/cookies_2.jpg",
+                                   "stimuli/corpse_3.JPG",     "stimuli/christmas_3.jpg", "stimuli/cookies_2.jpg",
                                    "stimuli/cupcake_2.jpg",    "stimuli/deer_2.jpg",      "stimuli/fireworks_2.jpg",
                                    "stimuli/flower_1.jpg",     "stimuli/marriage_2.jpg",  "stimuli/meditation_1.jpg",
                                    "stimuli/mountain_1.jpg",   "stimuli/pie_3.jpg",       "stimuli/pizza_4.jpg",
@@ -1634,7 +1634,7 @@ var avoidance_key = "N";
                                    "stimuli/poison_4.jpg",     "stimuli/explosion_1.jpg", "stimuli/feces_2.jpg",
                                    "stimuli/flood_1.jpg",      "stimuli/gun_1.jpg",       "stimuli/homeless_2.jpg",
                                    "stimuli/hurricane_2.jpg",  "stimuli/jail_1.jpg",      "stimuli/knife_1.jpg",
-                                   "stimuli/mutilation_2.jpg", "stimuli/pollution_1.jpg", "stimuli/rat_3.jpg",
+                                   "stimuli/mutilation_2.JPG", "stimuli/pollution_1.jpg", "stimuli/rat_3.jpg",
                                    "stimuli/rifle_3.jpg",      "stimuli/shark_2.jpg",     "stimuli/sick_2.jpg",
                                    "stimuli/snake_3.jpg",      "stimuli/spider_3.jpg",    "stimuli/suicide_1.jpg",
                                    "stimuli/war_2.jpg",        "stimuli/worm_2.jpg",
@@ -1654,7 +1654,7 @@ var avoidance_key = "N";
         },
       on_finish: function() {
           saving_browser_events(completion = true);
-          window.location.href = "https://app.prolific.ac/submissions/complete?cc=OM0MJFFH";
+          window.location.href = "https://app.prolific.ac/submissions/complete?cc=MEMHX5XQ";
       }
     });
   }
